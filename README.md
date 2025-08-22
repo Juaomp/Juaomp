@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o João Pedro
 
-<!--
-**Juaomp/Juaomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+💻 Front-end Developer em formação  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+
+Aqui você pode ver alguns dos trabalhos que desenvolvi, tanto para clientes quanto para praticar e aprimorar minhas habilidades.
+
+#### Projetos de Clientes e Profissionais
+* [**Site Fync**](https://github.com/Juaomp/Fync) - Website para controle e gestão financeira pessoal (projeto grande em construção). `HTML` `CSS` `JavaScript`
+
+#### Projetos de Estudo
+* [**Portfólio Acadêmico**](https://github.com/Juaomp/Projeto-Academico-Portfolio) - Projeto acadêmico para praticar conceitos básicos do Front-End. `HTML` `CSS`
+* [**Lista de Tarefas (to do list)**](https://github.com/Juaomp/To-do-list) - Aplicação para gerenciamento de tarefas, criada para praticar manipulação do DOM. `JavaScript` `HTML` `CSS`
+* [**Calculadora Web**](https://github.com/Juaomp/Calculadora-Web) - Calculadora desenvolvida com foco na lógica de programação e eventos do JavaScript. `JavaScript` `HTML` `CSS`
+* [**Tritempo**](https://github.com/Juaomp/Tri-Tempo) - Um aplicativo web que busca e exibe dados de clima em tempo real, consumindo a API da OpenWeatherMap. `JavaScript` `HTML` `CSS`
+
+---
+
+### 🛠️ Tecnologias que uso
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py)](https://skillicons.dev)
+
+---
+
+### 📫 Contato
+- Email: joaopedromachado830@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jmotam/
