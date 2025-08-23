@@ -14,9 +14,9 @@ Aqui você pode ver alguns dos trabalhos que desenvolvi, tanto para clientes qua
 
 #### Projetos de Estudo
 * [**Portfólio Acadêmico**](https://github.com/Juaomp/Projeto-Academico-Portfolio) - Projeto acadêmico para praticar conceitos básicos do Front-End. `HTML` `CSS`
-* [**Lista de Tarefas (to do list)**](https://github.com/Juaomp/To-do-list) - Aplicação para gerenciamento de tarefas, criada para praticar manipulação do DOM. `JavaScript` `HTML` `CSS`
-* [**Calculadora Web**](https://github.com/Juaomp/Calculadora-Web) - Calculadora desenvolvida com foco na lógica de programação e eventos do JavaScript. `JavaScript` `HTML` `CSS`
-* [**Tritempo**](https://github.com/Juaomp/Tri-Tempo) - Um aplicativo web que busca e exibe dados de clima em tempo real, consumindo a API da OpenWeatherMap. `JavaScript` `HTML` `CSS`
+* [**Lista de Tarefas (to do list)**](https://juaomp.github.io/To-do-list/) - Aplicação para gerenciamento de tarefas, criada para praticar manipulação do DOM. `JavaScript` `HTML` `CSS`
+* [**Calculadora Web**](https://juaomp.github.io/Calculadora-Web/) - Calculadora desenvolvida com foco na lógica de programação e eventos do JavaScript. `JavaScript` `HTML` `CSS`
+* [**Tritempo**](https://juaomp.github.io/Tri-tempo/) - Um aplicativo web que busca e exibe dados de clima em tempo real, consumindo a API da OpenWeatherMap. `JavaScript` `HTML` `CSS`
 
 ---
 
